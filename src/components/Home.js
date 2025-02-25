@@ -83,7 +83,7 @@ const Home = () => {
             <div className="row align-items-center">
                 <div className="col-md-12 text-end mb-3">
                 <a
-                    href="https://github.com/Ramesh-dev-2001/39properties"
+                    href="https://39properties.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn btn-outline-dark btn-lg"
