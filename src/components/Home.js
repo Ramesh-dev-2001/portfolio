@@ -88,7 +88,7 @@ const Home = () => {
                     rel="noopener noreferrer"
                     className="btn btn-outline-dark btn-lg"
                 >
-                    View
+                    View Site
                 </a>    
                 </div>
 
