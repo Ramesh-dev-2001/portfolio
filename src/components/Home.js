@@ -206,7 +206,7 @@ const Home = () => {
         <hr/>
         <div className="container">
             <div className="row d-flex">
-                <div className="col-md-2"><h4> Intership</h4></div>
+                <div className="col-md-2"><h4> Internship</h4></div>
                 <div className="col-md-10"><h4>Full Stack Developer</h4><p>Laalabs Pvt Ltd</p></div>
             </div>
         </div>
