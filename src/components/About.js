@@ -39,7 +39,7 @@ const About = () => {
         </div>
         <hr/>
         <div className="container">
-                <div className="col-md-12 p-4"><h3>Full stack developr</h3><span>I plan, design, and build user-friendly web applications.</span></div>
+                <div className="col-md-12 p-4"><h3>Full Stack Developer</h3><span>I plan, design, and build user-friendly web applications.</span></div>
         </div>
         <hr/>
     </section>

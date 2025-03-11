@@ -207,7 +207,7 @@ const Home = () => {
         <div className="container">
             <div className="row d-flex">
                 <div className="col-md-2"><h4> Intership</h4></div>
-                <div className="col-md-10"><h4>Full stack developer</h4><p>Laalabs Pvt Ltd</p></div>
+                <div className="col-md-10"><h4>Full Stack Developer</h4><p>Laalabs Pvt Ltd</p></div>
             </div>
         </div>
         <hr/>
@@ -215,7 +215,7 @@ const Home = () => {
             <div className="row d-flex">
                 <div className="col-md-2"><h4> 2023</h4></div>
                 <div className="col-md-10">
-                    <h4>Wrote my first lines of code</h4>
+                    <h4>Wrote My First Lines Of Code</h4>
                     <p>Dipped my toes into the world of code by printing "Hello, World!"</p>
                 </div>
             </div>
